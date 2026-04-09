@@ -1,1 +1,1 @@
-# Stellar-Spoofer-Light-Auto-Update
+1.0.1
